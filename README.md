@@ -4,7 +4,7 @@
 3. HIFI,贴吧,SMZDM 签到
 ## 使用
 0. Fork仓库
-1. 添加环境变量,Settings > Secrets > New secret > 添加如下几个环境变量
+1. 添加环境变量,Settings > Secrets > New secret > 添加如下几个环境变量.
 2. 配置文件 config.ini [thanks_id] 项下内容删除，这里用来记录已经说谢谢的id
 ## 环境变量配置
 1. CONFIG 下面例子内 所有'#'后的内容删除,不能写注释..
